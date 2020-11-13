@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ Accordion Card
 
-![Design preview for the FAQ Accordion Card coding challenge](https://github.com/eduardoguette/faq-accordion-card/blob/main/design/desktop-preview.jpg)
+![Design preview for the FAQ Accordion Card coding challenge](https://github.com/eduardoguette/faq-accordion-card/blob/main/desktop-preview.jpg)
 
 ## Welcome! 👋
 

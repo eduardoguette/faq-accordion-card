@@ -6,9 +6,9 @@ const Arrow = document.querySelectorAll('.container-title svg');
 const containerDesplegable = document.querySelector(
   'div[class*="container-desplegable"]'
 );
-containerDesplegable.addEventListener('click', (e) => {
-  e.preventDefault();
-  if (e.target.className === 'title') {
+containerDesplegable.addEventListener('click', (event) => {
+  event.preventDefault();
+  if (event.target.className === 'title') {
     info.forEach((elem, i) => {
       title[i].style.fontWeight = '500';
       Arrow[i].style.transform = 'rotate(0deg)';
@@ -17,9 +17,10 @@ containerDesplegable.addEventListener('click', (e) => {
       }
     });
 
-    e.target.parentElement.nextElementSibling.classList.toggle('active');
-    e.target.nextElementSibling.style.transform = 'rotate(180deg)';
-    if (e.target.style.fontWeight !== '700') e.target.style.fontWeight = '700';
-    else e.target.style.fontWeight = '500'; //.style.display = 'block';
+    event.target.parentElement.nextElementSibling.classList.toggle('active');
+    event.target.nextElementSibling.style.transform = 'rotate(180deg)';
+    if (event.target.style.fontWeight !== '700')
+      event.target.style.fontWeight = '700';
+    else event.target.style.fontWeight = '500'; //.style.display = 'block';
   }
 });

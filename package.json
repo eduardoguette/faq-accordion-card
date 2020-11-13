@@ -2,10 +2,10 @@
   "name": "faq-accordion-card",
   "version": "1.0.0",
   "description": "challenge from https://www.frontendmentor.io",
-  "main": "index.html",
+  "main": "./public/index.html",
   "scripts": {
     "start": "parcel index.html --open",
-    "build": "parcel build index.html"
+    "build": "parcel build ./index.html"
   },
   "dependencies": {
     "sass": "1.28.0"

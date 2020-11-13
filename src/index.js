@@ -1,5 +1,3 @@
-import './styles.scss';
-
 const title = document.querySelectorAll('.title');
 const info = document.querySelectorAll('.desplegable p:nth-child(2)');
 const Arrow = document.querySelectorAll('.container-title svg');

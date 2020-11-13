@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ Accordion Card
 
-![Design preview for the FAQ Accordion Card coding challenge](https://github.com/eduardoguette/testimonials-grid-section/blob/main/design/desktop-preview.jpg)
+![Design preview for the FAQ Accordion Card coding challenge](https://github.com/eduardoguette/faq-accordion-card/blob/main/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -15,8 +15,8 @@ This project were created to the following widths:
 
 ### Project ScreenShots
 
-![photo](https://github.com/eduardoguette/testimonials-grid-section/blob/main/mobile.jpg?raw=true)
-![photo](https://github.com/eduardoguette/testimonials-grid-section/blob/main/desktop.jpg?raw=true)
+![photo](https://github.com/eduardoguette/faq-accordion-card/blob/main/mobile.jpg?raw=true)
+![photo](https://github.com/eduardoguette/faq-accordion-card/blob/main/desktop.jpg?raw=true)
 
 ### Instrucciones de intalación y configuración
 

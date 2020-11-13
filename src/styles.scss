@@ -46,6 +46,7 @@ body {
       font-family: 'Kumbh Sans', sans-serif;
       font-weight: 700;
       padding: 1.9em 0 0 0;
+      
     }
     &__container-img{
       position: relative;
@@ -95,6 +96,9 @@ body {
             cursor: pointer;
             padding: .6em 0;
             width: 100%;
+            &:hover{
+              color: $Softred;
+            }
           }
           svg{
             transition: transform .3s linear;

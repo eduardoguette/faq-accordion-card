@@ -2,7 +2,7 @@
   "name": "faq-accordion-card",
   "version": "1.0.0",
   "description": "challenge from https://www.frontendmentor.io",
-  "main": "./public/index.html",
+  "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build ./index.html"
